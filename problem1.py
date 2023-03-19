@@ -1,13 +1,14 @@
 '''
 
 
-Date: Mar, 19. 2023
+Date: Mar 19, 2023.
 
 
 Author :  Name: Sejin Yoon
+          uID: u1311019
 
 
-Source code File name: eg. problem1.py
+Source code File name: problem1.py
 
 
 '''
