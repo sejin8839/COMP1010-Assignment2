@@ -15,8 +15,6 @@ Source code File name: problem2.py
 
 
 
-
-
 value = float(input("Enter the Richter magnitude value: "))
 if value >= 9.0:
     print('Cause unbelievable damage')
