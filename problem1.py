@@ -14,6 +14,7 @@ Source code File name: problem1.py
 '''
 
 
+
 word = input('Write the word: ')
 
 palindrome = True
